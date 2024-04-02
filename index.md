@@ -1,3 +1,4 @@
+## Lab Report 1
 * ![Image](cdnoargs.png)
 * ![Image](lsnoargs.png)
 * ![Image](catnoargs.png)
