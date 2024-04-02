@@ -1,2 +1,1 @@
-Hello World
-![Image](cd(no args).png)
+![Image](catdirect.png)
